@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Belem27
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web and mobile app dev.
 - 📫 How to reach me at anytime
 
